@@ -21,7 +21,7 @@ Precision traffic testing without the four-figure commercial licence.
 
 <br>
 
-<img width="560" alt="YTS ETH Packet Generator — header configuration above a live transmit/receive monitor" src="screenshots/packet-main-window.png">
+<img width="560" alt="YTS ETH Packet Generator — header configuration above a live transmit/receive monitor" src="screenshot/packet-main-window.png">
 
 <sub>Configuration and the live monitor in one window — shown in dark mode</sub>
 
@@ -74,8 +74,8 @@ so you don't need a separate analyzer to see the result.
 
 <table>
 <tr>
-<td width="50%"><img alt="Ethernet, VLAN, IPv4 and protocol header fields with packet size and rate configuration" src="screenshots/packet-headers.png"></td>
-<td width="50%"><img alt="Packet Review and Edit pane showing the assembled frame in raw hex" src="screenshots/packet-hex-editor.png"></td>
+<td width="50%"><img alt="Ethernet, VLAN, IPv4 and protocol header fields with packet size and rate configuration" src="screenshot/packet-headers.png"></td>
+<td width="50%"><img alt="Packet Review and Edit pane showing the assembled frame in raw hex" src="screenshot/packet-hex-editor.png"></td>
 </tr>
 <tr>
 <td align="center"><sub><b>Header configuration</b> · L2, VLAN, IPv4, transport and packet config in one pane</sub></td>
@@ -84,7 +84,7 @@ so you don't need a separate analyzer to see the result.
 </table>
 
 <div align="center">
-<img width="560" alt="Live monitor with Tx/Rx counters and a rate-over-time graph during a continuous transmission" src="screenshots/packet-monitor.png">
+<img width="560" alt="Live monitor with Tx/Rx counters and a rate-over-time graph during a continuous transmission" src="screenshot/packet-monitor.png">
 
 <sub><b>Live monitor</b> · Tx/Rx packets, bytes, bps, average PPS, dropped packets and a rate-over-time graph</sub>
 </div>
